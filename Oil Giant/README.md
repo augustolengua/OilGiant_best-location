@@ -7,7 +7,7 @@
 
 ## Goal:
 
-Se tiene datos sobre muestras de crudo de tres regiones. Ya se conocen los parámetros de cada pozo petrolero de la región. Se tiene que crear un modelo que ayude a elegir la región con el mayor margen de beneficio analizando los beneficios y riesgos potenciales utilizando la técnica bootstrapping.
+Se tiene datos sobre muestras de crudo de tres regiones. Ya se conocen los parámetros de cada pozo petrolero de la región. Se tiene que crear un modelo que ayude a elegir la región con el mayor margen de beneficio analizando los beneficios y riesgos potenciales utilizando la técnica bootstrapping, estableciendo un intervalo de confianza del 95% y riesgo de pérdidas inferior a 2.5%
 
 ## Libraries used:
 
